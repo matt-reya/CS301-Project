@@ -7,3 +7,5 @@ Air quality: https://data.cityofnewyork.us/Environment/Air-Quality-and-Health-Im
 ## Initial hypothesis:
 H<sub>0</sub>: Traffic volume doesn't have an effect on the air quality in New York City.  
 H<sub>A</sub>: Higher traffic volume worsens the air quality(air pollution) in New York City.
+## Video
+https://drive.google.com/file/d/1iiGvAuyL8raerTcDxharl1RTtFMltmc1/view
